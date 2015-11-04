@@ -1,3 +1,5 @@
-#### introduction
+### Introduction
 
-this is a sample md file
+** Name:** Valak
+
+** Favorite color:** Green
